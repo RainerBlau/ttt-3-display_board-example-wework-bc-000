@@ -1,5 +1,5 @@
 def display_board
-  puts "   |   |   "
+  Print "   |   |   "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
